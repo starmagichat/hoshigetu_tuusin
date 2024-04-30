@@ -1,0 +1,2 @@
+# hoshigetu_tuusin
+難しいことはたくさんあるけど、javascriptから少しずつやっていきますぜ。
