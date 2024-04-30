@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0;
+}
+
+.fream-inside {
+    margin: 20px 150px;
+    background-color: red;
+}
+
+.header-inside {
+    display: flex;
+    margin: 0 20px;
+}
