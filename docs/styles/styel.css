@@ -10,6 +10,11 @@ h1 {
 
 header {
     margin: 0;
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
 }
 
 .fream-inside {
@@ -17,7 +22,18 @@ header {
     background-color: red;
 }
 
-.header-inside {
+.header-leftside {
     display: flex;
-    margin: 0 20px;
+    height: 100%;
+
+}
+
+.images {
+    height: 100%;
+
+}
+
+.center {
+    display: flex;
+    align-items: center;
 }
